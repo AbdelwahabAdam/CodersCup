@@ -1,7 +1,7 @@
 # Time Line
 
 
-- 15/3 : TOT Beginning
+- 15/12 : TOT Beginning
 - 25/2 : Start Deliver the Codes
 - 1/3  : End Deliver the Codes
 - 8/3  : Competition day
