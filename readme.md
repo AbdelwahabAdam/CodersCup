@@ -1,4 +1,5 @@
 # Young Coders competition (Manuel)
+![Alt text](cover.png?raw=true "Title")
 
 - It is an annual game design competition aimed to challenge students to program a
 game with a certain standard, which will challenge their creativity and curiosity to
