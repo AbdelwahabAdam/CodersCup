@@ -5,6 +5,18 @@
 game with a certain standard, which will challenge their creativity and curiosity to
 learn and master programming.
 Every year will be a different theme for the competition.
+### Languages & Frameworks 👨🏻‍💻
+
+<code><img height="35" src="https://img.icons8.com/color/48/000000/python.png"/></code>&nbsp;&nbsp;
+<code><img height="35" src="https://www.pygame.org/docs/_images/pygame_logo.png"></code>&nbsp;&nbsp;
+<code><img height="35" src="https://static.wikia.nocookie.net/logopedia/images/4/49/Kodu-icon.png/revision/latest?cb=20211023063013"></code>&nbsp;&nbsp;
+<code><img height="35" src="https://seeklogo.com/images/S/scratch-cat-logo-7F652C6253-seeklogo.com.png"></code>&nbsp;&nbsp;
+<code><img height="35" src="https://steamcenter.co/Documents/CourseImage/CourseImage638272740458204194_CourseImage.png"></code>&nbsp;&nbsp;
+<code><img height="35" src="https://1000logos.net/wp-content/uploads/2021/10/Unity-logo.png"></code>&nbsp;&nbsp;
+<code><img height="35" src="https://appinventor.mit.edu/explore/sites/explore.appinventor.mit.edu/files/ai-bee-logo.png"></code>&nbsp;&nbsp;
+<code><img height="35" src="https://i.pcmag.com/imagery/reviews/01JwP71TDkYZqIdckYYYybR-1..v1601052460.png"></code>&nbsp;&nbsp;
+<code><img height="35" src="https://logowik.com/content/uploads/images/flutter5786.jpg"/></code>&nbsp;&nbsp;
+
 ---
 ## Theme
     - Shall be reveal later.
