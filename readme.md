@@ -20,18 +20,11 @@ Every year will be a different theme for the competition.
 ---
 ## Categories 
 
-- 4-6 
-    - Kudo
-- 6-12
-    - Scratch
-    - pictoblox 
-- 12-15
-    - Unity game engine
-    - MIT app inventor
-    - *GameMaker Studio*
-- 13-17
-    - Python
-    - *Flutter*
+-	Entry-level (Kudo)
+-	Intermediate (Scratch - pictoblox)
+-	Senior (Unity game engine - MIT app inventor - **Gamemaker Studio**)
+-	Principal (Python - **Flutter**)
+
 ---
 
 ## Competition Phases:
