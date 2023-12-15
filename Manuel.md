@@ -8,6 +8,14 @@ Every year will be a different theme for the competition.
 ## Theme
 
 ---
+# Time Line
+- 15/12 : Competition Overview.
+- 20/2 : Sending Deliver Link.
+- 25/2 : Start Deliver the Codes.
+- 1/3  : End Deliver the Codes.
+- 8/3  : Competition day.
+
+---
 ## Categories 
 
 - 4-6 
