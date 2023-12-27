@@ -38,6 +38,7 @@ mobile applications and mobile video games.
 - GitHub tutorial: 
   - Github: https://docs.github.com/en/get-started/quickstart/hello-world
   - w3schools: https://www.w3schools.com/git/git_remote_getstarted.asp?remote=github
+- For Any questions, you can create a new issue in this repo
 ---
 ## Game requirements:
   1. The game should have at least one playable character that can move around the screen.
@@ -100,6 +101,8 @@ mobile applications and mobile video games.
 ## Submission process:
 **You need to send the following documents:**
 1. *GitHub* Repo link.
+    - Team must create their repo, with the name convention “CodersCup_{CenterName}_{TeamName}”
+    - Ex: “CodersCup_mycenter_myteam”
 
 2. The Repo *MUST* contain a readme.md file, that contain details about the team members and the game, also it *MUST* contain detailed information on how to compile and run the game.
    
