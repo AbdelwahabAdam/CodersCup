@@ -4,6 +4,9 @@
 - It is an annual game design competition aimed to challenge students to program a
 game with a certain standard, which will challenge their creativity and curiosity to
 learn and master programming.
+Follow us on:
+    - https://www.facebook.com/profile.php?id=61555466910514
+    - https://abdelwahabadam.github.io/CodersCup_landing
 Every year will be a different theme for the competition.
 ### Languages & Frameworks 👨🏻‍💻
 
@@ -83,4 +86,5 @@ Every year will be a different theme for the competition.
        - Adult help is accepted as long asthe majority of the work is done by the participants.
 5. GDD (Game design document): A template will be sent, participants can either edit it or design their own GDD with the same required data.
 6. The delivered game MUST be the same one presented in the competition day.
+7. For any Question, you can ask us on https://abdelwahabadam.github.io/CodersCup_landing/#form-askus
 ---
