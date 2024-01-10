@@ -4,9 +4,12 @@
 - It is an annual game design competition aimed to challenge students to program a
 game with a certain standard, which will challenge their creativity and curiosity to
 learn and master programming.
+---
 Follow us on:
-    - https://www.facebook.com/profile.php?id=61555466910514
-    - https://abdelwahabadam.github.io/CodersCup_landing
+- https://www.facebook.com/profile.php?id=61555466910514
+- https://abdelwahabadam.github.io/CodersCup_landing
+---
+
 Every year will be a different theme for the competition.
 ### Languages & Frameworks 👨🏻‍💻
 
